@@ -66,7 +66,7 @@ pokemon-explorer/
 
 ## 🌐 Live Demo
 
-Coming soon... (You can deploy on [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/))
+https://pokemon-explorer-steel.vercel.app/
 
 ## 🤖 Credits
 
