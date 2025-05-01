@@ -2,7 +2,7 @@
 
 A responsive React-based app for browsing, filtering, and searching the first 150 Pokémon using the [PokéAPI](https://pokeapi.co/). Built with Tailwind CSS and modern component architecture.
 
-## Features
+## 🚀 Features
 
 - 🔍 Search Pokémon by name
 - 🧪 Filter Pokémon by type
@@ -11,7 +11,7 @@ A responsive React-based app for browsing, filtering, and searching the first 15
 - 🔄 Responsive design for mobile & desktop
 - ⚛️ Modular, component-based architecture
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 pokemon-explorer/
